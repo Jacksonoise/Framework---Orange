@@ -42,7 +42,7 @@ Si deseas generar un reporte en HTML, usa:
 pytest --html=report.html
 ```
 
-## Nuevas Pruebas
+## Incluir Nuevas Pruebas
 
 1. Crea un nuevo archivo de prueba en el directorio `tests/` con el prefijo `test_`, por ejemplo, `test_nueva_funcionalidad.py`.
 
